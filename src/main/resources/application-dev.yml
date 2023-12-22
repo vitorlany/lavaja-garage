@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:localhost:3306/lavaja?createDatabaseIfNotExist=true
+
+    username: root
+    password: GbLrtqUmIH869ePk
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+springdoc:
+  swagger-ui:
+    path: /doc.html

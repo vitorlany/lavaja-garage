@@ -1,0 +1,15 @@
+version: '3'
+
+# Usado em debug
+services:
+  db:
+    image: mariadb
+    container_name: lavaja
+    restart: always
+    tty: true
+    environment:
+      MARIADB_ROOT_PASSWORD: GbLrtqUmIH869ePk
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./data:/var/lib/mysql
