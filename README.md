@@ -1,0 +1,3 @@
+# Melhorias futuras
+- [ ] Exceções internas por uma classe mãe, herda por todos, e classe handler, verifica se for desse, caso for, temos um corpo controlado que garante que não vamos expor nada interno. Agora tudo o que for do java default, vamos encapsular, e passar um dado genérico e armazenar o erro, evitando que passamos detalhes de implementação para o cliente e possíveis falhas de segurança.
+- [ ] Rever o ganho de separar domínio de entidade de banco de dados. Verificar realmente se essa separação está entregando tão valor quanto o retrabalho que dá criar boilerplate para mapear essas classes sendo que poderiam estar de muito fácil acesso e desbloqueando recursos incríveis do spring.
