@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url: jdbc:localhost:3306/lavaja?createDatabaseIfNotExist=true
-
+    url: jdbc:mariadb://localhost:3306/lavaja?createDatabaseIfNotExist=true
+    driver-class-name: org.mariadb.jdbc.Driver
     username: root
     password: GbLrtqUmIH869ePk
 
