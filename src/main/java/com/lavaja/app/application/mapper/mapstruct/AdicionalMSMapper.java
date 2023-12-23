@@ -1,6 +1,6 @@
 package com.lavaja.app.application.mapper.mapstruct;
 
-import com.lavaja.app.application.dto.AdicionalDTO;
+import com.lavaja.app.lavajato.adicional.cadastrar.AdicionalDTO;
 import com.lavaja.app.domain.Adicional;
 import com.lavaja.app.infra.model.AdicionalModel;
 import org.mapstruct.Mapper;

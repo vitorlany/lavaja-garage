@@ -1,9 +1,9 @@
 spring:
   datasource:
-    url: jdbc:mariadb://database-lavaja.cdgrj9zpcezw.us-east-1.rds.amazonaws.com:3306/lavaja?createDatabaseIfNotExist=true
+    url: jdbc:localhost:3306/lavaja?createDatabaseIfNotExist=true
 
     username: root
-    password: DsE26gB3R7o5yZiJ
+    password: GbLrtqUmIH869ePk
 
   jpa:
     hibernate:

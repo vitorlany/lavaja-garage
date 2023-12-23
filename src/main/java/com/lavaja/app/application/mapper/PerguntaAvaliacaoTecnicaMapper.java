@@ -1,6 +1,6 @@
 package com.lavaja.app.application.mapper;
 
-import com.lavaja.app.application.dto.PerguntaAvaliacaoTecnicaDTO;
+import com.lavaja.app.lavajato.servicoPortifolio.cadastrar.PerguntaAvaliacaoTecnicaDTO;
 import com.lavaja.app.application.mapper.mapstruct.PerguntaAvaliacaoTecnicaMSMapper;
 import com.lavaja.app.domain.PerguntaAvaliacaoTecnica;
 import com.lavaja.app.infra.model.PerguntaAvaliacaoTecnicaModel;

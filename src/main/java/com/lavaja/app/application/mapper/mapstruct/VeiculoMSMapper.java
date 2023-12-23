@@ -1,6 +1,6 @@
 package com.lavaja.app.application.mapper.mapstruct;
 
-import com.lavaja.app.application.dto.VeiculoDTO;
+import com.lavaja.app.lavajato.veiculo.cadastrar.VeiculoDTO;
 import com.lavaja.app.domain.Veiculo;
 import com.lavaja.app.infra.model.VeiculoModel;
 import org.mapstruct.Mapper;

@@ -1,6 +1,6 @@
 package com.lavaja.app.infra.repository;
 
-import com.lavaja.app.application.dto.MetricasDeUmProdutoDTO;
+import com.lavaja.app.lavajato.metricas.dto.MetricasDeUmProdutoDTO;
 import com.lavaja.app.infra.model.ServicoPortifolioModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

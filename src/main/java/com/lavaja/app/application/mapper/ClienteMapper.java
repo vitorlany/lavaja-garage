@@ -1,6 +1,6 @@
 package com.lavaja.app.application.mapper;
 
-import com.lavaja.app.application.dto.ClienteDTO;
+import com.lavaja.app.lavajato.cliente.cadastrar.ClienteDTO;
 import com.lavaja.app.application.service.ContatoService;
 import com.lavaja.app.domain.Cliente;
 import com.lavaja.app.domain.Contato;

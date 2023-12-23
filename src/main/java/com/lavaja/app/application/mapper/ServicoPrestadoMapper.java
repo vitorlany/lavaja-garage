@@ -1,6 +1,6 @@
 package com.lavaja.app.application.mapper;
 
-import com.lavaja.app.application.dto.ServicoPrestadoDTO;
+import com.lavaja.app.lavajato.servicoPrestado.cadastrar.ServicoPrestadoDTO;
 import com.lavaja.app.application.service.ServicoPortifolioService;
 import com.lavaja.app.application.service.VeiculoService;
 import com.lavaja.app.domain.Adicional;

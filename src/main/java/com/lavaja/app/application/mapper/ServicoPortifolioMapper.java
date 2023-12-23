@@ -1,7 +1,7 @@
 package com.lavaja.app.application.mapper;
 
-import com.lavaja.app.application.dto.AvaliacaoTecnicaDTO;
-import com.lavaja.app.application.dto.ServicoPortifolioDTO;
+import com.lavaja.app.lavajato.servicoPortifolio.cadastrar.AvaliacaoTecnicaDTO;
+import com.lavaja.app.lavajato.servicoPortifolio.cadastrar.ServicoPortifolioDTO;
 import com.lavaja.app.application.mapper.mapstruct.AvaliacaoTecnicaMSMapper;
 import com.lavaja.app.application.service.ServicoPortifolioService;
 import com.lavaja.app.domain.AvaliacaoTecnica;

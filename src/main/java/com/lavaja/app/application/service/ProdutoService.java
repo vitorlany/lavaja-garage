@@ -1,7 +1,6 @@
 package com.lavaja.app.application.service;
 
-import com.lavaja.app.application.dto.MetricasDeUmProdutoDTO;
-import com.lavaja.app.application.dto.ProdutoDTO;
+import com.lavaja.app.lavajato.produto.ProdutoDTO;
 import com.lavaja.app.infra.model.ProdutoModel;
 import com.lavaja.app.infra.model.ProdutoVendidoModel;
 import com.lavaja.app.infra.repository.ProdutoRepository;
